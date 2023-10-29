@@ -2,7 +2,7 @@
 This repo is a clone of https://github.com/mjhea0/flaskr-tdd
 
 # BlueSurf Unit Test 
-https://github.com/ECE444-2023Fall/Blue-Surf/blob/4e1b48e075b05152499745f15bec245fd0910cf4/backend/tests/test_app.py#L16-L20
+[https://github.com/ECE444-2023Fall/Blue-Surf/blob/4e1b48e075b05152499745f15bec245fd0910cf4/backend/tests/test_app.py#L16-L20](https://github.com/ECE444-2023Fall/Blue-Surf/blob/4167723c9ac1f4f23cf95e2d6f646211c2ad0390/backend/tests/test_app.py#L16-L20)
 
 # Pros and Cons of TDD
 The pros of TDD include early bug detection, improved code quality, and the establishment of benchmarks. Using TDD makes it easier for developers to create well-structured and clean code, while also allowing them to identify and fix bugs in the early stages of the development process. This, in turn, reduces the time and cost required for addressing these issues later in the development cycle. Furthermore, these tests serve as benchmarks for the product, ensuring that the application passes all of them and behaves as expected.
